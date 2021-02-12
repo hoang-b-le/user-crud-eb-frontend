@@ -4,7 +4,7 @@ The project is built with Material  React components.
 React-Router-Dom for navigation.
 JWT header for authorisation as APIs, however, normal browser cookies also work.
 
-Main libary used:
+Main libaries used:
 - React-Router-Dom
 - Material Core
 - Axios
@@ -13,6 +13,7 @@ Main libary used:
 
 In the project directory, you can run:
 
+### `npm install`
 ### `npm start`
 
 Runs the app in the development mode.\
