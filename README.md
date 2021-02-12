@@ -1,8 +1,13 @@
 # user-crud-eb-frontend
 
-The project is built with Material Design React components.
+The project is built with Material  React components.
 React-Router-Dom for navigation.
 JWT header for authorisation as APIs, however, normal browser cookies also work.
+
+Main libary used:
+- React-Router-Dom
+- Material Core
+- Axios
 
 ## Available Scripts
 
