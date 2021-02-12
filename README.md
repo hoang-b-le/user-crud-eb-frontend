@@ -1,4 +1,4 @@
-# user-crud-eb-backend
+# user-crud-eb-frontend
 
 The project is built with Material Design React components.
 React-Router-Dom for navigation.
